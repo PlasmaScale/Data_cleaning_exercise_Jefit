@@ -55,7 +55,7 @@
 53,"10x8,10x8",2019-03-13,240,Close Triceps Pushup,9,2,16,20.0,10.0,12.7,triceps,7
 54,0x300,2019-03-14,310,Elliptical Training,10,1,300,0.0,0.0,0.0,cardio,1
 55,"70x4,70x4,70x4,70x4",2019-03-14,93,Barbell Deadlift,10,4,16,280.0,70.0,79.3,quads,2
-56,"7.5x10,7.5x10,7.5x10",2019-03-14,495,Smith Machine Single Leg Split Squat,10,3,30,22.5,7.5,10.0,quads,3
+56,"7.5x10,7.5x10,7.5x10",2019-03-14,495,Bulgarian Split Squat,10,3,30,22.5,7.5,10.0,quads,3
 57,"10x15,10x15,10x15",2019-03-14,479,Kettlebell Goblet Squat,10,3,45,30.0,10.0,15.0,quads,4
 58,"5x10,5x10,5x10",2019-03-14,386,Barbell Hip Thrust,10,3,30,15.0,5.0,6.7,glutes,5
 59,"10x10,15x9,15x7",2019-03-14,160,Lying Leg Curls,10,3,26,40.0,15.0,19.5,hamstrings,6
@@ -120,7 +120,7 @@
 118,"10x12,10x12,10x12",2019-03-23,80,Dumbbell Side Bend,19,3,36,30.0,10.0,14.0,abdominals,15
 119,0x300,2019-03-24,310,Elliptical Training,20,1,300,0.0,0.0,0.0,cardio,1
 120,"80x4,80x4,80x4,80x4",2019-03-24,93,Barbell Deadlift,20,4,16,320.0,80.0,90.7,quads,2
-121,"7.5x12,7.5x12,7.5x10",2019-03-24,495,Smith Machine Single Leg Split Squat,20,3,34,22.5,7.5,10.5,quads,3
+121,"7.5x12,7.5x12,7.5x10",2019-03-24,495,Bulgarian Split Squat,20,3,34,22.5,7.5,10.5,quads,3
 122,"10x15,10x15,10x15",2019-03-24,386,Barbell Hip Thrust,20,3,45,30.0,10.0,15.0,glutes,4
 123,"12.5x15,12.5x15,12.5x15",2019-03-24,479,Kettlebell Goblet Squat,20,3,45,37.5,12.5,18.8,quads,5
 124,"36x10,36x10,36x10",2019-03-24,161,Seated Leg Curl,20,3,30,108.0,36.0,48.0,hamstrings,6
@@ -180,7 +180,7 @@
 178,"6x8,6x8",2019-04-03,100,Dumbbell Bicep Curl,29,2,16,12.0,6.0,7.6,biceps,11
 179,0x150,2019-04-04,310,Elliptical Training,30,1,150,0.0,0.0,0.0,cardio,1
 180,"85x4,85x4,85x4,85x3",2019-04-04,93,Barbell Deadlift,30,4,15,340.0,85.0,96.3,quads,2
-181,"8x12,8x12,8x12",2019-04-04,495,Smith Machine Single Leg Split Squat,30,3,36,24.0,8.0,11.2,quads,3
+181,"8x12,8x12,8x12",2019-04-04,495,Bulgarian Split Squat,30,3,36,24.0,8.0,11.2,quads,3
 182,"20x15,20x15,20x14",2019-04-04,386,Barbell Hip Thrust,30,3,44,60.0,20.0,30.0,glutes,4
 183,"15x15,15x15,15x14",2019-04-04,479,Kettlebell Goblet Squat,30,3,44,45.0,15.0,22.5,quads,5
 184,"41x10,41x10,41x8",2019-04-04,161,Seated Leg Curl,30,3,28,123.0,41.0,54.7,hamstrings,6
@@ -241,7 +241,7 @@
 239,"7.5x6,7.5x7",2019-04-10,100,Dumbbell Bicep Curl,39,2,13,15.0,7.5,9.2,biceps,11
 240,0x300,2019-04-11,310,Elliptical Training,40,1,300,0.0,0.0,0.0,cardio,1
 241,"85x4,85x4,85x4,85x4",2019-04-11,93,Barbell Deadlift,40,4,16,340.0,85.0,96.3,quads,2
-242,"10x12,10x12,10x8",2019-04-11,495,Smith Machine Single Leg Split Squat,40,3,32,30.0,10.0,14.0,quads,3
+242,"10x12,10x12,10x8",2019-04-11,495,Bulgarian Split Squat,40,3,32,30.0,10.0,14.0,quads,3
 243,"20x15,20x15,20x15",2019-04-11,386,Barbell Hip Thrust,40,3,45,60.0,20.0,30.0,glutes,4
 244,"16x15,16x15,16x15",2019-04-11,479,Kettlebell Goblet Squat,40,3,45,48.0,16.0,24.0,quads,5
 245,"41x10,41x10,41x10",2019-04-11,161,Seated Leg Curl,40,3,30,123.0,41.0,54.7,hamstrings,6
@@ -295,7 +295,7 @@
 293,"7.5x10,8x8",2019-04-17,108,Dumbbell Hammer Curls,47,2,18,15.5,8.0,10.1,biceps,9
 294,"7.5x8,8x4",2019-04-17,100,Dumbbell Bicep Curl,47,2,12,15.5,8.0,9.5,biceps,10
 295,"90x4,90x4,90x4,90x4",2019-04-18,93,Barbell Deadlift,48,4,16,360.0,90.0,102.0,quads,1
-296,"10x12,10x12,10x12",2019-04-18,495,Smith Machine Single Leg Split Squat,48,3,36,30.0,10.0,14.0,quads,2
+296,"10x12,10x12,10x12",2019-04-18,495,Bulgarian Split Squat,48,3,36,30.0,10.0,14.0,quads,2
 297,"30x10,30x14,30x14",2019-04-18,386,Barbell Hip Thrust,48,3,38,90.0,30.0,44.0,glutes,3
 298,"18x15,18x15,18x15",2019-04-18,479,Kettlebell Goblet Squat,48,3,45,54.0,18.0,27.0,quads,4
 299,"45.5x9,45.5x9,45.5x9",2019-04-18,161,Seated Leg Curl,48,3,27,136.5,45.5,59.1,hamstrings,5
@@ -354,7 +354,7 @@
 352,"10x20,10x18,10x16",2019-04-27,44,Leg Raise,58,3,54,30.0,10.0,16.7,abdominals,13
 353,0x300,2019-04-28,310,Elliptical Training,59,1,300,0.0,0.0,0.0,cardio,1
 354,"100x2,90x4,90x4,90x4",2019-04-28,93,Barbell Deadlift,59,4,14,370.0,100.0,106.7,quads,2
-355,"12x10,12x10,12x7",2019-04-28,495,Smith Machine Single Leg Split Squat,59,3,27,36.0,12.0,16.0,quads,3
+355,"12x10,12x10,12x7",2019-04-28,495,Bulgarian Split Squat,59,3,27,36.0,12.0,16.0,quads,3
 356,"30x12,30x10,30x8",2019-04-28,386,Barbell Hip Thrust,59,3,30,90.0,30.0,42.0,glutes,4
 357,"20x10,20x10,20x11",2019-04-28,479,Kettlebell Goblet Squat,59,3,31,60.0,20.0,27.3,quads,5
 358,"45.5x10,45.5x10,45.5x9",2019-04-28,161,Seated Leg Curl,59,3,29,136.5,45.5,60.7,hamstrings,6
@@ -437,7 +437,7 @@
 435,"10x10,10x9",2019-05-12,745,Cable Reverse Wood Chops,69,2,19,20.0,10.0,13.3,abdominals,14
 436,0x300,2019-05-13,310,Elliptical Training,70,1,300,0.0,0.0,0.0,cardio,1
 437,"95x3,90x4,90x4,90x3",2019-05-13,93,Barbell Deadlift,70,4,14,365.0,95.0,104.5,quads,2
-438,"12x12,12x8,12x8",2019-05-13,495,Smith Machine Single Leg Split Squat,70,3,28,36.0,12.0,16.8,quads,3
+438,"12x12,12x8,12x8",2019-05-13,495,Bulgarian Split Squat,70,3,28,36.0,12.0,16.8,quads,3
 439,"30x15,30x12,30x12",2019-05-13,386,Barbell Hip Thrust,70,3,39,90.0,30.0,45.0,glutes,4
 440,"20x12,20x11,20x13",2019-05-13,479,Kettlebell Goblet Squat,70,3,36,60.0,20.0,28.7,quads,5
 441,"45.5x15,41x22,41x29",2019-05-13,216,Thigh Abductor,70,3,66,127.5,45.5,80.6,glutes,6
@@ -552,7 +552,7 @@
 550,"10x50,10x50,10x50",2019-06-01,339,Weight Plate Russian Twist,81,3,150,30.0,10.0,26.7,abdominals,13
 551,"10x50,10x50,10x50",2019-06-01,198,Flutter Kick,81,3,150,30.0,10.0,26.7,abdominals,14
 552,"90x4,90x4,90x4,90x3",2019-06-02,93,Barbell Deadlift,82,4,15,360.0,90.0,102.0,quads,1
-553,"12x12,12x12,12x12",2019-06-02,495,Smith Machine Single Leg Split Squat,82,3,36,36.0,12.0,16.8,quads,2
+553,"12x12,12x12,12x12",2019-06-02,495,Bulgarian Split Squat,82,3,36,36.0,12.0,16.8,quads,2
 554,"30x15,30x15,30x15",2019-06-02,386,Barbell Hip Thrust,82,3,45,90.0,30.0,45.0,glutes,3
 555,"20x12,20x13,20x10",2019-06-02,479,Kettlebell Goblet Squat,82,3,35,60.0,20.0,28.7,quads,4
 556,"45.5x10,45.5x10,45.5x7",2019-06-02,161,Seated Leg Curl,82,3,27,136.5,45.5,60.7,hamstrings,5
@@ -613,7 +613,7 @@
 611,0x150,2019-06-13,310,Elliptical Training,88,1,150,0.0,0.0,0.0,cardio,1
 612,"90x4,90x4,90x4,90x4",2019-06-13,93,Barbell Deadlift,88,4,16,360.0,90.0,102.0,quads,2
 613,"20x15,20x15,20x15",2019-06-13,479,Kettlebell Goblet Squat,88,3,45,60.0,20.0,30.0,quads,3
-614,"12.5x11,12.5x7,12.5x8",2019-06-13,495,Smith Machine Single Leg Split Squat,88,3,26,37.5,12.5,17.1,quads,4
+614,"12.5x11,12.5x7,12.5x8",2019-06-13,495,Bulgarian Split Squat,88,3,26,37.5,12.5,17.1,quads,4
 615,"30x15,30x14,30x15",2019-06-13,386,Barbell Hip Thrust,88,3,44,90.0,30.0,45.0,glutes,5
 616,"45.5x10,45.5x10,45.5x10",2019-06-13,161,Seated Leg Curl,88,3,30,136.5,45.5,60.7,hamstrings,6
 617,"45.5x30,45.5x25,45.5x25",2019-06-13,216,Thigh Abductor,88,3,80,136.5,45.5,91.0,glutes,7
@@ -671,7 +671,7 @@
 669,"7.5x8,7.5x6",2019-06-19,108,Dumbbell Hammer Curls,93,2,14,15.0,7.5,9.5,biceps,10
 670,"7.5x4,7.5x3",2019-06-19,100,Dumbbell Bicep Curl,93,2,7,15.0,7.5,8.5,biceps,11
 671,"95x4,95x4,95x2,95x2",2019-06-20,93,Barbell Deadlift,94,4,12,380.0,95.0,107.7,quads,1
-672,"12.5x12,12.5x12,12.5x12",2019-06-20,495,Smith Machine Single Leg Split Squat,94,3,36,37.5,12.5,17.5,quads,2
+672,"12.5x12,12.5x12,12.5x12",2019-06-20,495,Bulgarian Split Squat,94,3,36,37.5,12.5,17.5,quads,2
 673,"35x14,35x10,35x11",2019-06-20,386,Barbell Hip Thrust,94,3,35,105.0,35.0,51.3,glutes,3
 674,"22.5x12,22.5x11,22.5x12",2019-06-20,479,Kettlebell Goblet Squat,94,3,35,67.5,22.5,31.5,quads,4
 675,"54.5x10,54.5x9,54.5x6",2019-06-20,161,Seated Leg Curl,94,3,25,163.5,54.5,72.7,hamstrings,5
@@ -730,7 +730,7 @@
 728,"10x60,10x60,10x60",2019-06-30,339,Weight Plate Russian Twist,99,3,180,30.0,10.0,30.0,abdominals,13
 729,"10x60,10x60,10x60",2019-06-30,198,Flutter Kick,99,3,180,30.0,10.0,30.0,abdominals,14
 730,"95x4,95x4,95x4,95x3",2019-07-01,93,Barbell Deadlift,100,4,15,380.0,95.0,107.7,quads,1
-731,"14x12,14x12,14x12",2019-07-01,495,Smith Machine Single Leg Split Squat,100,3,36,42.0,14.0,19.6,quads,2
+731,"14x12,14x12,14x12",2019-07-01,495,Bulgarian Split Squat,100,3,36,42.0,14.0,19.6,quads,2
 732,"39.8x15,39.8x11,39.8x11",2019-07-01,386,Barbell Hip Thrust,100,3,37,119.39999999999999,39.8,59.7,glutes,3
 733,"22.5x12,22.5x11,22.5x11",2019-07-01,479,Kettlebell Goblet Squat,100,3,34,67.5,22.5,31.5,quads,4
 734,"54.5x9,54.5x9,54.5x7",2019-07-01,161,Seated Leg Curl,100,3,25,163.5,54.5,70.9,hamstrings,5
@@ -791,7 +791,7 @@
 789,"1x16,1x15,1x15",2019-07-10,1273,Parallel Bar Leg Raise,105,3,46,3.0,1.0,1.5,abdominals,12
 790,"5x15,5x15,5x14",2019-07-10,675,Weight Plate  Decline Crunch,105,3,44,15.0,5.0,7.5,abdominals,13
 791,"95x4,95x4,95x2,95x3",2019-07-11,93,Barbell Deadlift,106,4,13,380.0,95.0,107.7,quads,1
-792,"15x12,15x12,15x10",2019-07-11,495,Smith Machine Single Leg Split Squat,106,3,34,45.0,15.0,21.0,quads,2
+792,"15x12,15x12,15x10",2019-07-11,495,Bulgarian Split Squat,106,3,34,45.0,15.0,21.0,quads,2
 793,"30x15,30x15,30x13",2019-07-11,386,Barbell Hip Thrust,106,3,43,90.0,30.0,45.0,glutes,3
 794,"22.5x14,22.5x12,22.5x11",2019-07-11,479,Kettlebell Goblet Squat,106,3,37,67.5,22.5,33.0,quads,4
 795,"54.5x10,54.5x9,54.5x7",2019-07-11,161,Seated Leg Curl,106,3,26,163.5,54.5,72.7,hamstrings,5
@@ -856,7 +856,7 @@
 854,"6x10,6x10",2019-07-19,108,Dumbbell Hammer Curls,113,2,20,12.0,6.0,8.0,biceps,10
 855,"6x8,6x6",2019-07-19,100,Dumbbell Bicep Curl,113,2,14,12.0,6.0,7.6,biceps,11
 856,"80x4,80x4",2019-07-20,93,Barbell Deadlift,114,2,8,160.0,80.0,90.7,quads,1
-857,"12x10,12x10,12x10",2019-07-20,495,Smith Machine Single Leg Split Squat,114,3,30,36.0,12.0,16.0,quads,2
+857,"12x10,12x10,12x10",2019-07-20,495,Bulgarian Split Squat,114,3,30,36.0,12.0,16.0,quads,2
 858,"30x15,30x15,30x15",2019-07-20,386,Barbell Hip Thrust,114,3,45,90.0,30.0,45.0,glutes,3
 859,"16x15,16x15,16x15",2019-07-20,479,Kettlebell Goblet Squat,114,3,45,48.0,16.0,24.0,quads,4
 860,"42x10,42x10,42x10",2019-07-20,161,Seated Leg Curl,114,3,30,126.0,42.0,56.0,hamstrings,5
@@ -912,7 +912,7 @@
 910,"5x10,5x10",2019-07-26,108,Dumbbell Hammer Curls,120,2,20,10.0,5.0,6.7,biceps,10
 911,"5x8,5x8",2019-07-26,100,Dumbbell Bicep Curl,120,2,16,10.0,5.0,6.3,biceps,11
 912,"80x4,80x4,80x4",2019-07-27,93,Barbell Deadlift,121,3,12,240.0,80.0,90.7,quads,1
-913,"12x11,12x11,12x11",2019-07-27,495,Smith Machine Single Leg Split Squat,121,3,33,36.0,12.0,16.4,quads,2
+913,"12x11,12x11,12x11",2019-07-27,495,Bulgarian Split Squat,121,3,33,36.0,12.0,16.4,quads,2
 914,"30x15,30x13,30x14",2019-07-27,386,Barbell Hip Thrust,121,3,42,90.0,30.0,45.0,glutes,3
 915,"16x15,16x15,16x15",2019-07-27,479,Kettlebell Goblet Squat,121,3,45,48.0,16.0,24.0,quads,4
 916,"42x10,42x7,40x8",2019-07-27,161,Seated Leg Curl,121,3,25,124.0,42.0,56.0,hamstrings,5
@@ -940,7 +940,7 @@
 938,"23.75x12,23.75x12",2019-08-01,79,Cable Crunch,124,2,24,47.5,23.75,33.2,abdominals,9
 939,"80x6,80x6,80x6,80x6",2019-08-03,93,Barbell Deadlift,125,4,24,320.0,80.0,96.0,quads,1
 940,"10x12,10x12,10x12,10x12",2019-08-03,165,Dumbbell Incline Fly,125,4,48,40.0,10.0,14.0,chest,2
-941,"14x6,14x6,14x6,14x6",2019-08-03,495,Smith Machine Single Leg Split Squat,125,4,24,56.0,14.0,16.8,quads,3
+941,"14x6,14x6,14x6,14x6",2019-08-03,495,Bulgarian Split Squat,125,4,24,56.0,14.0,16.8,quads,3
 942,"14x12,14x12,14x12,14x12",2019-08-03,1040,Dumbbell Incline Bench Two Arm Row,125,4,48,56.0,14.0,19.6,back,4
 943,"3.75x8,3.75x8,3.75x8",2019-08-03,1127,Cable One Arm Lateral Raise,125,3,24,11.25,3.75,4.8,shoulder,5
 944,"6x10,6x10,6x10",2019-08-03,236,Dumbbell Supine Two-Arm Triceps Extension,125,3,30,18.0,6.0,8.0,triceps,6
@@ -958,7 +958,7 @@
 956,"4x20,4x20,4x20",2019-08-07,675,Weight Plate  Decline Crunch,127,3,60,12.0,4.0,6.7,abdominals,2
 957,"80x7,80x7,80x7,80x7",2019-08-10,93,Barbell Deadlift,128,4,28,320.0,80.0,98.7,quads,1
 958,"30x7,30x7,30x7",2019-08-10,453,Barbell Military Press,128,3,21,90.0,30.0,37.0,shoulder,2
-959,"14x7,14x7,14x7,14x7",2019-08-10,495,Smith Machine Single Leg Split Squat,128,4,28,56.0,14.0,17.3,quads,3
+959,"14x7,14x7,14x7,14x7",2019-08-10,495,Bulgarian Split Squat,128,4,28,56.0,14.0,17.3,quads,3
 960,"16x8,16x8,16x8,16x8",2019-08-10,1040,Dumbbell Incline Bench Two Arm Row,128,4,32,64.0,16.0,20.3,back,4
 961,"12x10,12x10,12x10,12x10",2019-08-10,165,Dumbbell Incline Fly,128,4,40,48.0,12.0,16.0,chest,5
 962,"6x11,6x11,6x11",2019-08-10,236,Dumbbell Supine Two-Arm Triceps Extension,128,3,33,18.0,6.0,8.2,triceps,6
@@ -979,7 +979,7 @@
 977,"12x11,12x11,12x11,12x11",2019-08-16,165,Dumbbell Incline Fly,131,4,44,48.0,12.0,16.4,chest,1
 978,"80x8,80x8,80x8,80x8",2019-08-16,93,Barbell Deadlift,131,4,32,320.0,80.0,101.3,quads,2
 979,"16x9,16x9,16x9,16x9",2019-08-16,1040,Dumbbell Incline Bench Two Arm Row,131,4,36,64.0,16.0,20.8,back,3
-980,"14x8,14x8,14x8,14x8",2019-08-16,495,Smith Machine Single Leg Split Squat,131,4,32,56.0,14.0,17.7,quads,4
+980,"14x8,14x8,14x8,14x8",2019-08-16,495,Bulgarian Split Squat,131,4,32,56.0,14.0,17.7,quads,4
 981,"3.75x9,3.75x9,3.75x9",2019-08-16,1127,Cable One Arm Lateral Raise,131,3,27,11.25,3.75,4.9,shoulder,5
 982,"11.25x11,11.25x11,11.25x11",2019-08-16,14,Cable Cross Over,131,3,33,33.75,11.25,15.4,chest,6
 983,"6x12,6x12,6x12",2019-08-16,236,Dumbbell Supine Two-Arm Triceps Extension,131,3,36,18.0,6.0,8.4,triceps,7
@@ -1005,7 +1005,7 @@
 1003,"90x16,90x16,90x16",2019-08-22,140,Calf Press On Leg Press,133,3,48,270.0,90.0,138.0,calves,9
 1004,"85x6,85x6,85x6,85x6",2019-08-24,93,Barbell Deadlift,134,4,24,340.0,85.0,102.0,quads,1
 1005,"12x12,12x12,12x12,12x12",2019-08-24,165,Dumbbell Incline Fly,134,4,48,48.0,12.0,16.8,chest,2
-1006,"14x9,14x9,14x9,14x9",2019-08-24,495,Smith Machine Single Leg Split Squat,134,4,36,56.0,14.0,18.2,quads,3
+1006,"14x9,14x9,14x9,14x9",2019-08-24,495,Bulgarian Split Squat,134,4,36,56.0,14.0,18.2,quads,3
 1007,"16x10,16x10,16x10,16x10",2019-08-24,1040,Dumbbell Incline Bench Two Arm Row,134,4,40,64.0,16.0,21.3,back,4
 1008,"6x13,6x13,6x13",2019-08-24,236,Dumbbell Supine Two-Arm Triceps Extension,134,3,39,18.0,6.0,8.6,triceps,5
 1009,"3.75x10,3.75x10,3.75x10",2019-08-24,1127,Cable One Arm Lateral Raise,134,3,30,11.25,3.75,5.0,shoulder,6
@@ -1022,7 +1022,7 @@
 1020,"1x13,1x13,1x13",2019-08-27,1273,Parallel Bar Leg Raise,135,3,39,3.0,1.0,1.4,abdominals,8
 1021,"85x7,85x7,85x7,85x7",2019-08-29,93,Barbell Deadlift,136,4,28,340.0,85.0,104.8,quads,1
 1022,"14x8,14x8,14x6,14x6",2019-08-29,165,Dumbbell Incline Fly,136,4,28,56.0,14.0,17.7,chest,2
-1023,"14x10,14x10,14x10,14x10",2019-08-29,495,Smith Machine Single Leg Split Squat,136,4,40,56.0,14.0,18.7,quads,3
+1023,"14x10,14x10,14x10,14x10",2019-08-29,495,Bulgarian Split Squat,136,4,40,56.0,14.0,18.7,quads,3
 1024,"16x11,16x11,16x11,16x11",2019-08-29,1040,Dumbbell Incline Bench Two Arm Row,136,4,44,64.0,16.0,21.9,back,4
 1025,"6x14,6x14,6x10",2019-08-29,236,Dumbbell Supine Two-Arm Triceps Extension,136,3,38,18.0,6.0,8.8,triceps,5
 1026,"3.75x11,3.75x11,3.75x11",2019-08-29,1127,Cable One Arm Lateral Raise,136,3,33,11.25,3.75,5.1,shoulder,6
@@ -1049,7 +1049,7 @@
 1047,"1x14,1x14,1x11",2019-09-03,1273,Parallel Bar Leg Raise,138,3,39,3.0,1.0,1.5,abdominals,9
 1048,"85x8,85x8,85x8,85x7",2019-09-05,93,Barbell Deadlift,139,4,31,340.0,85.0,107.7,quads,1
 1049,"12x12,12x11,12x6,12x5",2019-09-05,165,Dumbbell Incline Fly,139,4,34,48.0,12.0,16.8,chest,2
-1050,"18x6,16x6,16x6,16x6",2019-09-05,495,Smith Machine Single Leg Split Squat,139,4,24,66.0,18.0,21.6,quads,3
+1050,"18x6,16x6,16x6,16x6",2019-09-05,495,Bulgarian Split Squat,139,4,24,66.0,18.0,21.6,quads,3
 1051,"16x12,16x12,16x12,16x12",2019-09-05,1040,Dumbbell Incline Bench Two Arm Row,139,4,48,64.0,16.0,22.4,back,4
 1052,"6x13,6x13,6x13",2019-09-05,236,Dumbbell Supine Two-Arm Triceps Extension,139,3,39,18.0,6.0,8.6,triceps,5
 1053,"3.75x12,3.75x12,3.75x12",2019-09-05,1127,Cable One Arm Lateral Raise,139,3,36,11.25,3.75,5.2,shoulder,6
@@ -1076,7 +1076,7 @@
 1074,"124x10,124x10,124x10",2019-09-10,6,Calf Jump,141,3,30,372.0,124.0,165.3,calves,9
 1075,"90x6,90x6,90x6,90x6",2019-09-12,93,Barbell Deadlift,142,4,24,360.0,90.0,108.0,quads,1
 1076,"12x11,12x11,12x11,12x11",2019-09-12,165,Dumbbell Incline Fly,142,4,44,48.0,12.0,16.4,chest,2
-1077,"16x7,16x7,16x7,16x7",2019-09-12,495,Smith Machine Single Leg Split Squat,142,4,28,64.0,16.0,19.7,quads,3
+1077,"16x7,16x7,16x7,16x7",2019-09-12,495,Bulgarian Split Squat,142,4,28,64.0,16.0,19.7,quads,3
 1078,"18x10,18x10,18x10,18x10",2019-09-12,1040,Dumbbell Incline Bench Two Arm Row,142,4,40,72.0,18.0,24.0,back,4
 1079,"7x10,7x10,7x10",2019-09-12,236,Dumbbell Supine Two-Arm Triceps Extension,142,3,30,21.0,7.0,9.3,triceps,5
 1080,"6.25x8,6.25x8,6.25x8",2019-09-12,1127,Cable One Arm Lateral Raise,142,3,24,18.75,6.25,7.9,shoulder,6
@@ -1103,7 +1103,7 @@
 1101,"124x11,124x11,124x11",2019-09-16,6,Calf Jump,144,3,33,372.0,124.0,169.5,calves,9
 1102,"90x7,90x7,90x7,90x7",2019-09-18,93,Barbell Deadlift,145,4,28,360.0,90.0,111.0,quads,1
 1103,"12x12,12x12,12x12,12x12",2019-09-18,165,Dumbbell Incline Fly,145,4,48,48.0,12.0,16.8,chest,2
-1104,"16x8,16x8,16x8,16x8",2019-09-18,495,Smith Machine Single Leg Split Squat,145,4,32,64.0,16.0,20.3,quads,3
+1104,"16x8,16x8,16x8,16x8",2019-09-18,495,Bulgarian Split Squat,145,4,32,64.0,16.0,20.3,quads,3
 1105,"18x11,18x11,18x11,18x11",2019-09-18,1040,Dumbbell Incline Bench Two Arm Row,145,4,44,72.0,18.0,24.6,back,4
 1106,"7x11,7x11,7x11",2019-09-18,236,Dumbbell Supine Two-Arm Triceps Extension,145,3,33,21.0,7.0,9.6,triceps,5
 1107,"6.25x9,6.25x9,6.25x9",2019-09-18,1127,Cable One Arm Lateral Raise,145,3,27,18.75,6.25,8.1,shoulder,6
@@ -1121,7 +1121,7 @@
 1119,"124x11,124x11",2019-09-30,6,Calf Jump,146,2,22,248.0,124.0,169.5,calves,9
 1120,"90x6,90x6,90x6,90x6",2019-10-02,93,Barbell Deadlift,147,4,24,360.0,90.0,108.0,quads,1
 1121,"12x10,12x10,12x10,12x10",2019-10-02,165,Dumbbell Incline Fly,147,4,40,48.0,12.0,16.0,chest,2
-1122,"16x6,16x6,16x6,16x6",2019-10-02,495,Smith Machine Single Leg Split Squat,147,4,24,64.0,16.0,19.2,quads,3
+1122,"16x6,16x6,16x6,16x6",2019-10-02,495,Bulgarian Split Squat,147,4,24,64.0,16.0,19.2,quads,3
 1123,"20x8,20x8",2019-10-02,90,Dumbbell One-Arm Row,147,2,16,40.0,20.0,25.3,back,4
 1124,"17.5x8,17.5x8,17.5x8,17.5x8",2019-10-02,1040,Dumbbell Incline Bench Two Arm Row,147,4,32,70.0,17.5,22.2,back,5
 1125,"10x8,10x8,10x8",2019-10-02,1127,Cable One Arm Lateral Raise,147,3,24,30.0,10.0,12.7,shoulder,6
@@ -1150,7 +1150,7 @@
 1148,"124x11,124x11,124x11",2019-10-07,6,Calf Jump,149,3,33,372.0,124.0,169.5,calves,9
 1149,"12.5x11,12.5x11,12.5x11,12.5x11",2019-10-09,165,Dumbbell Incline Fly,150,4,44,50.0,12.5,17.1,chest,1
 1150,"90x7,90x7,90x7,90x7",2019-10-09,93,Barbell Deadlift,150,4,28,360.0,90.0,111.0,quads,2
-1151,"16x7,16x7,16x7,16x7",2019-10-09,495,Smith Machine Single Leg Split Squat,150,4,28,64.0,16.0,19.7,quads,3
+1151,"16x7,16x7,16x7,16x7",2019-10-09,495,Bulgarian Split Squat,150,4,28,64.0,16.0,19.7,quads,3
 1152,"17.5x9,17.5x9,17.5x9,17.5x9",2019-10-09,1040,Dumbbell Incline Bench Two Arm Row,150,4,36,70.0,17.5,22.8,back,4
 1153,"10x9,10x9,10x9",2019-10-09,1127,Cable One Arm Lateral Raise,150,3,27,30.0,10.0,13.0,shoulder,5
 1154,"7.5x11,7.5x11,7.5x11",2019-10-09,236,Dumbbell Supine Two-Arm Triceps Extension,150,3,33,22.5,7.5,10.2,triceps,6
@@ -1178,7 +1178,7 @@
 1176,"124x12,124x12,124x12",2019-10-14,6,Calf Jump,152,3,36,372.0,124.0,173.6,calves,10
 1177,"90x8,90x8,90x8,90x8",2019-10-16,93,Barbell Deadlift,153,4,32,360.0,90.0,114.0,quads,1
 1178,"20x6,20x6,20x6,20x6",2019-10-16,31,Dumbbell Incline Bench Press,153,4,24,80.0,20.0,24.0,chest,2
-1179,"17.5x8,17.5x8,17.5x8,17.5x8",2019-10-16,495,Smith Machine Single Leg Split Squat,153,4,32,70.0,17.5,22.2,quads,3
+1179,"17.5x8,17.5x8,17.5x8,17.5x8",2019-10-16,495,Bulgarian Split Squat,153,4,32,70.0,17.5,22.2,quads,3
 1180,"20x9,20x9,20x9,20x9",2019-10-16,90,Dumbbell One-Arm Row,153,4,36,80.0,20.0,26.0,back,4
 1181,"10x10,10x7,10x6",2019-10-16,1127,Cable One Arm Lateral Raise,153,3,23,30.0,10.0,13.3,shoulder,5
 1182,"10x10,10x10,10x9",2019-10-16,221,EZ Bar Triceps Extension,153,3,29,30.0,10.0,13.3,triceps,6
@@ -1216,7 +1216,7 @@
 1214,"3.5x12,3.5x12",2019-10-28,874,Cable Rope Face Pull,157,2,24,7.0,3.5,4.9,back,12
 1215,"95x6,95x6,95x6,95x6",2019-10-30,93,Barbell Deadlift,158,4,24,380.0,95.0,114.0,quads,1
 1216,"20x7,20x7,20x7,20x6",2019-10-30,31,Dumbbell Incline Bench Press,158,4,27,80.0,20.0,24.7,chest,2
-1217,"17.5x9,17.5x9,17.5x9,17.5x9",2019-10-30,495,Smith Machine Single Leg Split Squat,158,4,36,70.0,17.5,22.8,quads,3
+1217,"17.5x9,17.5x9,17.5x9,17.5x9",2019-10-30,495,Bulgarian Split Squat,158,4,36,70.0,17.5,22.8,quads,3
 1218,"20x10,20x10,20x10,20x10",2019-10-30,90,Dumbbell One-Arm Row,158,4,40,80.0,20.0,26.7,back,4
 1219,"10x9,10x9,10x9",2019-10-30,1127,Cable One Arm Lateral Raise,158,3,27,30.0,10.0,13.0,shoulder,5
 1220,"10x10,10x10,10x10",2019-10-30,221,EZ Bar Triceps Extension,158,3,30,30.0,10.0,13.3,triceps,6
@@ -1246,7 +1246,7 @@
 1244,"2.5x10,2.5x10,2.5x10,2.5x10",2019-11-06,874,Cable Rope Face Pull,161,4,40,10.0,2.5,3.3,back,2
 1245,"95x7,95x7,95x7,95x7",2019-11-06,93,Barbell Deadlift,161,4,28,380.0,95.0,117.2,quads,3
 1246,"20x11,20x11,20x11,20x11",2019-11-06,90,Dumbbell One-Arm Row,161,4,44,80.0,20.0,27.3,back,4
-1247,"18x10,18x10,18x10",2019-11-06,495,Smith Machine Single Leg Split Squat,161,3,30,54.0,18.0,24.0,quads,5
+1247,"18x10,18x10,18x10",2019-11-06,495,Bulgarian Split Squat,161,3,30,54.0,18.0,24.0,quads,5
 1248,"40x6,40x6,40x6,40x6",2019-11-08,453,Barbell Military Press,162,4,24,160.0,40.0,48.0,shoulder,1
 1249,"100x8,100x8,100x8,100x8",2019-11-08,86,Wide Grip Lat Pulldown,162,4,32,400.0,100.0,126.7,back,2
 1250,"55x11,55x11,55x11",2019-11-08,199,Barbell Romanian Deadlift,162,3,33,165.0,55.0,75.2,hamstrings,3
@@ -1284,7 +1284,7 @@
 1282,"20x7,20x7,20x7,20x7",2019-11-20,31,Dumbbell Incline Bench Press,165,4,28,80.0,20.0,24.7,chest,2
 1283,"2.5x11,2.5x11,2.5x11,2.5x11",2019-11-20,874,Cable Rope Face Pull,165,4,44,10.0,2.5,3.4,back,3
 1284,"20x12,20x12,20x12,20x12",2019-11-20,90,Dumbbell One-Arm Row,165,4,48,80.0,20.0,28.0,back,4
-1285,"20x6,20x6,20x6,20x6",2019-11-20,495,Smith Machine Single Leg Split Squat,165,4,24,80.0,20.0,24.0,quads,5
+1285,"20x6,20x6,20x6,20x6",2019-11-20,495,Bulgarian Split Squat,165,4,24,80.0,20.0,24.0,quads,5
 1286,"10x10,10x9,10x7",2019-11-20,1127,Cable One Arm Lateral Raise,165,3,26,30.0,10.0,13.3,shoulder,6
 1287,"10x10,10x10,10x10",2019-11-20,221,EZ Bar Triceps Extension,165,3,30,30.0,10.0,13.3,triceps,7
 1288,"20x10,20x10,20x10",2019-11-20,42,Dumbbell Shoulder Shrug,165,3,30,60.0,20.0,26.7,shoulder,8
@@ -1308,7 +1308,7 @@
 1306,"10x12,10x12,10x10",2019-11-26,70,Cross Body Crunch,167,3,34,30.0,10.0,14.0,abdominals,8
 1307,"95x7,95x7,95x6,95x6",2019-11-28,93,Barbell Deadlift,168,4,26,380.0,95.0,117.2,quads,1
 1308,"20x8,20x8,20x8,20x5",2019-11-28,31,Dumbbell Incline Bench Press,168,4,29,80.0,20.0,25.3,chest,2
-1309,"20x7,20x7,20x7,20x7",2019-11-28,495,Smith Machine Single Leg Split Squat,168,4,28,80.0,20.0,24.7,quads,3
+1309,"20x7,20x7,20x7,20x7",2019-11-28,495,Bulgarian Split Squat,168,4,28,80.0,20.0,24.7,quads,3
 1310,"22.5x8,22.5x8,22.5x8,22.5x8",2019-11-28,90,Dumbbell One-Arm Row,168,4,32,90.0,22.5,28.5,back,4
 1311,"10x7,10x7,10x6",2019-11-28,1127,Cable One Arm Lateral Raise,168,3,20,30.0,10.0,12.3,shoulder,5
 1312,"1x8,1x8,1x8",2019-11-28,24,Dip,168,3,24,3.0,1.0,1.3,triceps,6
@@ -1329,7 +1329,7 @@
 1327,"50x10,50x10,50x10",2019-12-03,145,Standing Calf Raises,170,3,30,150.0,50.0,66.7,calves,7
 1328,"95x8,95x8,95x7,95x7",2019-12-05,93,Barbell Deadlift,171,4,30,380.0,95.0,120.3,quads,1
 1329,"20x12,20x12,20x10,20x10",2019-12-05,160,Lying Leg Curls,171,4,44,80.0,20.0,28.0,hamstrings,2
-1330,"20x8,20x8,20x8,20x8,20x8,20x8,20x8,20x8",2019-12-05,495,Smith Machine Single Leg Split Squat,171,8,64,160.0,20.0,25.3,quads,3
+1330,"20x8,20x8,20x8,20x8,20x8,20x8,20x8,20x8",2019-12-05,495,Bulgarian Split Squat,171,8,64,160.0,20.0,25.3,quads,3
 1331,"1x40,1x25",2019-12-05,216,Thigh Abductor,171,2,65,2.0,1.0,2.3,glutes,4
 1332,"55x12,55x12,55x12",2019-12-05,132,Leg Press,171,3,36,165.0,55.0,77.0,quads,5
 1333,"55x10,55x10,55x10",2019-12-05,140,Calf Press On Leg Press,171,3,30,165.0,55.0,73.3,calves,6
@@ -1361,7 +1361,7 @@
 1359,"20x11,20x11,20x11,20x11",2019-12-16,160,Lying Leg Curls,175,4,44,80.0,20.0,27.3,hamstrings,2
 1360,"55x13,55x13,55x13",2019-12-16,132,Leg Press,175,3,39,165.0,55.0,78.8,quads,3
 1361,"55x13,55x13,55x13",2019-12-16,140,Calf Press On Leg Press,175,3,39,165.0,55.0,78.8,calves,4
-1362,"20x9,20x9,20x9,20x9,20x9,20x9,20x9,20x9",2019-12-16,495,Smith Machine Single Leg Split Squat,175,8,72,160.0,20.0,26.0,quads,5
+1362,"20x9,20x9,20x9,20x9,20x9,20x9,20x9,20x9",2019-12-16,495,Bulgarian Split Squat,175,8,72,160.0,20.0,26.0,quads,5
 1363,"10x14,10x14,10x12",2019-12-16,70,Cross Body Crunch,175,3,40,30.0,10.0,14.7,abdominals,6
 1364,"1x30,1x30",2019-12-16,216,Thigh Abductor,175,2,60,2.0,1.0,2.0,glutes,7
 1365,"35x8,35x8,35x5,35x5,35x5",2019-12-17,453,Barbell Military Press,176,5,31,175.0,35.0,44.3,shoulder,1
@@ -1389,7 +1389,7 @@
 1387,"5.5x8,5.5x8",2019-12-20,100,Dumbbell Bicep Curl,178,2,16,11.0,5.5,7.0,biceps,8
 1388,"90x6,90x6,90x6,90x6",2020-01-09,93,Barbell Deadlift,179,4,24,360.0,90.0,108.0,quads,1
 1389,"20x8,20x8,20x8,20x8",2020-01-09,160,Lying Leg Curls,179,4,32,80.0,20.0,25.3,hamstrings,2
-1390,"20x6,20x6,20x6,20x6,20x6,20x6,20x6,20x6",2020-01-09,495,Smith Machine Single Leg Split Squat,179,8,48,160.0,20.0,24.0,quads,3
+1390,"20x6,20x6,20x6,20x6,20x6,20x6,20x6,20x6",2020-01-09,495,Bulgarian Split Squat,179,8,48,160.0,20.0,24.0,quads,3
 1391,"1x30,1x25",2020-01-09,216,Thigh Abductor,179,2,55,2.0,1.0,2.0,glutes,4
 1392,"10x12,10x12,10x12",2020-01-09,70,Cross Body Crunch,179,3,36,30.0,10.0,14.0,abdominals,5
 1393,"55x12,55x12,55x12",2020-01-09,132,Leg Press,179,3,36,165.0,55.0,77.0,quads,6
@@ -1419,7 +1419,7 @@
 1417,"5.5x8,5.5x8",2020-01-15,100,Dumbbell Bicep Curl,182,2,16,11.0,5.5,7.0,biceps,8
 1418,"90x7,90x7,90x7,90x6",2020-01-16,93,Barbell Deadlift,183,4,27,360.0,90.0,111.0,quads,1
 1419,"1x25,1x25",2020-01-16,216,Thigh Abductor,183,2,50,2.0,1.0,1.8,glutes,2
-1420,"20x7,20x7,20x7,20x7,20x7,20x7,20x7,20x7",2020-01-16,495,Smith Machine Single Leg Split Squat,183,8,56,160.0,20.0,24.7,quads,3
+1420,"20x7,20x7,20x7,20x7,20x7,20x7,20x7,20x7",2020-01-16,495,Bulgarian Split Squat,183,8,56,160.0,20.0,24.7,quads,3
 1421,"20x9,20x9,20x9,20x9",2020-01-16,160,Lying Leg Curls,183,4,36,80.0,20.0,26.0,hamstrings,4
 1422,"55x13,55x13,55x13",2020-01-16,132,Leg Press,183,3,39,165.0,55.0,78.8,quads,5
 1423,"55x13,55x13,55x13",2020-01-16,140,Calf Press On Leg Press,183,3,39,165.0,55.0,78.8,calves,6
@@ -1448,7 +1448,7 @@
 1446,"45x9,45x9,45x9,45x9",2020-01-29,86,Wide Grip Lat Pulldown,186,4,36,180.0,45.0,58.5,back,7
 1447,"5.5x8,5.5x6",2020-01-29,100,Dumbbell Bicep Curl,186,2,14,11.0,5.5,7.0,biceps,8
 1448,"90x6,90x6,90x6,90x6",2020-02-04,93,Barbell Deadlift,187,4,24,360.0,90.0,108.0,quads,1
-1449,"20x8,20x8,20x8,20x8,20x8,20x8,20x8,20x8",2020-02-04,495,Smith Machine Single Leg Split Squat,187,8,64,160.0,20.0,25.3,quads,2
+1449,"20x8,20x8,20x8,20x8,20x8,20x8,20x8,20x8",2020-02-04,495,Bulgarian Split Squat,187,8,64,160.0,20.0,25.3,quads,2
 1450,"20x10,20x10",2020-02-04,160,Lying Leg Curls,187,2,20,40.0,20.0,26.7,hamstrings,3
 1451,"55x8,55x8,55x8,55x5",2020-02-10,2,Barbell Bench Press,188,4,29,220.0,55.0,69.7,chest,1
 1452,"20x8,20x8,20x8,20x8",2020-02-10,90,Dumbbell One-Arm Row,188,4,32,80.0,20.0,25.3,back,2
@@ -1467,7 +1467,7 @@
 1465,"5.5x6,5.5x6",2020-02-11,100,Dumbbell Bicep Curl,189,2,12,11.0,5.5,6.6,biceps,8
 1466,"90x7,90x7,90x7,90x7",2020-02-13,93,Barbell Deadlift,190,4,28,360.0,90.0,111.0,quads,1
 1467,"20x8,20x8,20x7,15x8",2020-02-13,160,Lying Leg Curls,190,4,31,75.0,20.0,25.3,hamstrings,2
-1468,"20x6,20x6,20x6,20x6,20x6,20x6,20x6,20x6",2020-02-13,495,Smith Machine Single Leg Split Squat,190,8,48,160.0,20.0,24.0,quads,3
+1468,"20x6,20x6,20x6,20x6,20x6,20x6,20x6,20x6",2020-02-13,495,Bulgarian Split Squat,190,8,48,160.0,20.0,24.0,quads,3
 1469,"10x12,10x12,10x12",2020-02-13,70,Cross Body Crunch,190,3,36,30.0,10.0,14.0,abdominals,4
 1470,"1x20,1x20",2020-02-13,216,Thigh Abductor,190,2,40,2.0,1.0,1.7,glutes,5
 1471,"25x12,25x12,25x12",2020-02-13,130,Leg Extensions,190,3,36,75.0,25.0,35.0,quads,6
@@ -2444,7 +2444,7 @@
 2442,"40x12,40x12,40x12",2021-05-18,250,Cable Triceps Pushdown,332,3,36,120.0,40.0,56.0,triceps,7
 2443,"10x12,10x12,10x8",2021-05-18,107,Dumbbell Concentration Curls,332,3,32,30.0,10.0,14.0,biceps,8
 2444,"75x6,75x6,75x6",2021-05-19,12,Barbell Squat,333,3,18,225.0,75.0,90.0,quads,1
-2445,"100x4,100x4",2021-05-19,16,6'' Block Pull,333,2,8,200.0,100.0,113.3,back,2
+2445,"100x4,100x4",2021-05-19,16,Block Pull,333,2,8,200.0,100.0,113.3,back,2
 2446,"54.5x12,54.5x12,54.5x12",2021-05-19,130,Leg Extensions,333,3,36,163.5,54.5,76.3,quads,3
 2447,"150x15,150x15,150x15,150x15",2021-05-19,145,Standing Calf Raises,333,4,60,600.0,150.0,225.0,calves,4
 2448,"59x15,59x15,59x15",2021-05-19,216,Thigh Abductor,333,3,45,177.0,59.0,88.5,glutes,5
@@ -3103,7 +3103,7 @@
 3101,"5x15,5x15,5x15",2021-12-08,32,Dumbbell Lateral Raise,437,3,45,15.0,5.0,7.5,shoulder,6
 3102,"10x10,7.5x12,7.5x12",2021-12-08,107,Dumbbell Concentration Curls,437,3,34,25.0,10.0,13.3,biceps,7
 3103,"45x12,45x12,45x12",2021-12-08,250,Cable Triceps Pushdown,437,3,36,135.0,45.0,63.0,triceps,8
-3104,"120x4,120x4",2021-12-09,18,6'' Block Pull,438,2,8,240.0,120.0,136.0,back,1
+3104,"120x4,120x4",2021-12-09,18,Block Pull,438,2,8,240.0,120.0,136.0,back,1
 3105,"75.5x15,75.5x15,75.5x15",2021-12-09,216,Machine Hip Abduction,438,3,45,226.5,75.5,113.2,glutes,2
 3106,"85x7,85x7,85x7",2021-12-09,12,Barbell Squat,438,3,21,255.0,85.0,104.8,quads,3
 3107,"72x12,72x12,72x12",2021-12-09,130,Leg Extensions,438,3,36,216.0,72.0,100.8,quads,4
@@ -3225,7 +3225,7 @@
 3223,17.5x15,2022-01-20,771,Weight Plate Shrugs,454,1,15,17.5,17.5,26.2,shoulder,8
 3224,"17.5x15,17.5x15,17.5x15",2022-01-20,42,Dumbbell Shoulder Shrug,454,3,45,52.5,17.5,26.2,shoulder,9
 3225,"20x8,20x8,20x6,20x6",2022-01-21,31,Dumbbell Incline Bench Press,455,4,28,80.0,20.0,25.3,chest,1
-3226,"130x5,130x5",2022-01-21,23,6'' Block Pull,455,2,10,260.0,130.0,151.7,back,2
+3226,"130x5,130x5",2022-01-21,23,Block Pull,455,2,10,260.0,130.0,151.7,back,2
 3227,"45.5x12,45.5x12,45.5x12",2022-01-21,161,Seated Leg Curl,455,3,36,136.5,45.5,63.7,hamstrings,3
 3228,"32x10,32x10,32x10,32x10",2022-01-21,700,Seated Machine Row,455,4,40,128.0,32.0,42.7,back,4
 3229,"15x12,15x12,15x12,15x12",2022-01-21,155,Cable Rope Overhead Triceps Extension,455,4,48,60.0,15.0,21.0,triceps,5
@@ -3286,7 +3286,7 @@
 3284,"17.5x15,17.5x15,17.5x15",2022-02-07,42,Dumbbell Shoulder Shrug,463,3,45,52.5,17.5,26.2,shoulder,6
 3285,"5x10,5x10",2022-02-07,20,Single Leg Hip Thrust,463,2,20,10.0,5.0,6.7,glutes,7
 3286,"27.5x12,27.5x12,27.5x12,27.5x12",2022-02-07,878,Machine Reverse Flyes,463,4,48,110.0,27.5,38.5,back,8
-3287,"130x4,130x4",2022-02-10,24,6'' Block Pull,464,2,8,260.0,130.0,147.3,back,1
+3287,"130x4,130x4",2022-02-10,24,Block Pull,464,2,8,260.0,130.0,147.3,back,1
 3288,"20x6,20x6,20x6,20x8",2022-02-10,31,Dumbbell Incline Bench Press,464,4,26,80.0,20.0,25.3,chest,2
 3289,"45.5x12,45.5x12,45.5x12",2022-02-10,161,Seated Leg Curl,464,3,36,136.5,45.5,63.7,hamstrings,3
 3290,"32x10,32x10,32x10,32x12",2022-02-10,700,Seated Machine Row,464,4,42,128.0,32.0,44.8,back,4
@@ -3339,7 +3339,7 @@
 3337,"1x10,1x10,1x10",2022-02-25,1273,Parallel Bar Leg Raise,471,3,30,3.0,1.0,1.3,abdominals,6
 3338,"200x10,200x10,200x10",2022-02-25,145,Standing Calf Raises,471,3,30,600.0,200.0,266.7,calves,7
 3339,"12.5x8,12.5x8,12.5x8",2022-02-26,24,Dip,472,3,24,37.5,12.5,15.8,triceps,1
-3340,"130x4,130x4",2022-02-26,24,6'' Block Pull,472,2,8,260.0,130.0,147.3,back,2
+3340,"130x4,130x4",2022-02-26,24,Block Pull,472,2,8,260.0,130.0,147.3,back,2
 3341,"16x12,16x12,16x12",2022-02-26,90,Dumbbell One-Arm Row,472,3,36,48.0,16.0,22.4,back,3
 3342,"40x21,40x21,40x21",2022-02-26,250,Cable Triceps Pushdown,472,3,63,120.0,40.0,68.0,triceps,4
 3343,"7.5x15,5x18,5x20",2022-02-26,32,Dumbbell Lateral Raise,472,3,53,17.5,7.5,11.2,shoulder,5
